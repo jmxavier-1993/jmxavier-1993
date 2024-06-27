@@ -55,7 +55,12 @@
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+## Cloud Computing Service
+
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
+
 ## 📖 Cursos e Bootcamps 
 
-• Santander Bootcamp 2024 <br>
-• Bootcamp Santander 2024- Backend com Java
+• Santander Bootcamp 2024 (Cursando) <br>
+• Bootcamp Santander 2024- Backend com Java (Cursando)<br>
+• Python Data Analytics 2024 (Cursando)
