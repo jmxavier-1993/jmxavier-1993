@@ -1,5 +1,5 @@
 ## Objetivos
-- 🔎 Em busca de novos desafios e oportunidades na área de Desenvolvimento Web.
+- 🔎 Em busca de novos desafios e oportunidades na área de Desenvolvimento de aplicações.
 - 📚 Continuar aprendendo e crescendo profissionalmente.
 
 ## Sobre mim
